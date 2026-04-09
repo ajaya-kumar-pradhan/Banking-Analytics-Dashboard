@@ -1,7 +1,10 @@
 # 🌟 Banking Analytics Dashboard (Power BI) 🌟  
 
-🚀 **Live Dashboard**  
-👉 https://app.powerbi.com/view?r=eyJrIjoiOTQ5Y2UyY2UtNWM2NC00NGYyLTllNWUtYmU1ZDhkM2YwYzg5IiwidCI6IjdlMzEwODQ1LTg0ZTEtNGRiOC1hZjk4LTcwNDA0MTkwZDhkZSJ9  
+<p align="center">
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiOTQ5Y2UyY2UtNWM2NC00NGYyLTllNWUtYmU1ZDhkM2YwYzg5IiwidCI6IjdlMzEwODQ1LTg0ZTEtNGRiOC1hZjk4LTcwNDA0MTkwZDhkZSJ9" target="_blank">
+    <img src="https://img.shields.io/badge/🚀%20View%20Live%20Dashboard-PowerBI-blue?style=for-the-badge&logo=powerbi" />
+  </a>
+</p>
 
 ---
 
@@ -28,7 +31,7 @@ This dashboard transforms raw data into **interactive visualizations and actiona
 ### 1️⃣ Banking Transactions Dataset  
 - Transaction Type (Deposit, Withdrawal, Transfer, Payment)  
 - Transaction Amount & Currency  
-- Date & Time (Morning, Afternoon, Evening, Night)  
+- Date & Time  
 - Branch Code  
 
 ### 2️⃣ Customer Account Dataset  
@@ -59,7 +62,7 @@ This dashboard transforms raw data into **interactive visualizations and actiona
 
 ### 💰 Financial Insights  
 - Net Positive Cash Flow: **+$16.8M**  
-- Strong transaction volume across all channels  
+- Strong transaction volume  
 - Year-over-year decline observed  
 
 ### ⚠️ Risk Analysis  
@@ -70,22 +73,21 @@ This dashboard transforms raw data into **interactive visualizations and actiona
 ### 🏦 Branch Performance  
 - Total Branches: **600**  
 - Top Branch: **BR-0532**  
-- Majority of revenue from top-performing branches  
 
 ### 👥 Customer Insights  
-- Savings accounts hold highest balances  
-- Technology & Finance sectors dominate  
-- Majority customers are long-term (loyal)  
+- Savings accounts have highest balances  
+- Tech & Finance sectors dominate  
+- Majority customers are loyal  
 
 ---
 
 ## 💡 Strategic Recommendations  
 
 - Strengthen credit risk monitoring  
-- Improve customer retention strategies  
-- Optimize branch-level operations  
+- Improve customer retention  
+- Optimize branch performance  
 - Focus on high-performing sectors  
-- Implement predictive analytics for risk detection  
+- Apply predictive analytics  
 
 ---
 
@@ -102,7 +104,7 @@ This dashboard transforms raw data into **interactive visualizations and actiona
 
 ## 🧠 Data Modeling  
 
-- Star Schema Design  
+- Star Schema  
 
 **Fact Tables:**  
 - Transactions  
@@ -114,33 +116,29 @@ This dashboard transforms raw data into **interactive visualizations and actiona
 - Branches  
 - Date  
 
-**Optimizations:**  
-- Used DAX measures instead of calculated columns  
-- Removed redundant data  
-- Built efficient relationships  
-
 ---
 
 ## ✨ Dashboard Features  
 
-- Multi-page navigation (Overview, Transactions, Accounts, Credit & Loans, Branch Performance, Insights)  
+- Multi-page navigation  
 - Interactive filters & slicers  
-- KPI cards with dynamic metrics  
+- KPI cards  
 - Drill-down analysis  
-- Cross-filtering visuals  
+- Cross-filtering  
 
 ---
 
 ## 🚀 Future Enhancements  
 
-- Real-time data integration  
-- ML-based credit risk prediction  
+- Real-time dashboard  
+- ML-based risk prediction  
 - Customer segmentation  
-- Fraud detection using anomaly detection  
+- Fraud detection  
 
 ---
 
 ## 📁 Repository Structure
+
 📦 Banking-Analytics-Dashboard ┣ 📂 Data ┣ 📂 Screenshots ┣ 📂 PowerBI_File ┣ 📜 README.md
 
 ---
@@ -150,7 +148,7 @@ This dashboard transforms raw data into **interactive visualizations and actiona
 **Ajaya Kumar Pradhan**  
 
 - Data Analyst | Aspiring Data Scientist  
-- Skilled in SQL, Power BI, Python, DAX  
+- SQL | Power BI | Python | DAX  
 
 ---
 
