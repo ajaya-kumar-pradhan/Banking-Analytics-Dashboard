@@ -1,4 +1,4 @@
-# 🌟 Banking Analytics Dashboard (Power BI) 🌟  
+# 🌟 Banking Analytics Dashboard (Fininsight) 🌟  
 
 <p align="center">
   <a href="https://app.powerbi.com/view?r=eyJrIjoiOTQ5Y2UyY2UtNWM2NC00NGYyLTllNWUtYmU1ZDhkM2YwYzg5IiwidCI6IjdlMzEwODQ1LTg0ZTEtNGRiOC1hZjk4LTcwNDA0MTkwZDhkZSJ9" target="_blank">
